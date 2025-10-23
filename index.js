@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 const rootDomain = "oxygen.web.id"; // Ganti dengan domain utama kalian
-const serviceName = "oxygen"; // Ganti dengan nama workers kalian
+const serviceName = "proxy"; // Ganti dengan nama workers kalian
 const apiKey = "v8ZlP1qJ3SpbI8VuBFGkNdjTLduU_ci9ci4spfYV"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "rofiqassaqib@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "ab215a89d5bcba09a38449785cb38fe8"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
